@@ -1,0 +1,47 @@
+.Myclass {
+  margin: 32px;
+  padding: 16px;
+}
+a {
+  text-decoration: none;
+}
+.Class2 ul ins ul li {
+  list-style: none;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  width: 100%;
+  background: #000;
+  display: flex;
+}
+p {
+  text-align: center;
+}
+th {
+  border: 1px solid grey;
+}
+td {
+  border: 1px solid grey;
+}
+figure.img figcaption {
+  /* стиль описания */
+  padding: 0 1%;
+  font: italic 90% Georgia, serif;
+}
+h1 {
+  margin-bottom: 1.5em; /* Отрицательный отступ между заголовком и текстом */
+}
+h1 {
+  padding: 32px;
+  size: 32px;
+}
+p {
+  text-align: center;
+}
+#Content {
+  border: 2px solid #dc143c;
+  margin: 2%;
+  box-align: center;
+}
